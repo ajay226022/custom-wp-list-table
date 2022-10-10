@@ -1,0 +1,16 @@
+.wp-delete-post{
+    cursor: pointer;
+}
+.wp-edit-post{
+    cursor: pointer;
+}
+.wp-view-post{
+    cursor: pointer;
+}
+
+div#wpbody-content{
+    width: auto;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
